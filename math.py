@@ -1,5 +1,5 @@
 def add(x,y):
-	return x-y
+	return x+y
 def substract(x,y):
 	if x<y:
 		return ERROR
@@ -7,4 +7,4 @@ def substract(x,y):
 def multiply(x,y):
 	return x*y
 def divide(x,y):
-	pass
+	return x/y
